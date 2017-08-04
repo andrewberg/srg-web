@@ -201,3 +201,13 @@
     margin-bottom: 30px;
   }
 }
+
+#promo-title-1 {
+	font-family: Sans-serif;
+	font-size: 30px;
+}
+
+#promo-body-1 {
+	font-family: Sans-serif;
+	font-size: 15;
+}
