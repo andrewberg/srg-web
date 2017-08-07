@@ -536,6 +536,7 @@ h1, h2, h3, h4, h5, h6 {
 	.one-page-header .navbar-brand {
 		padding-left: 0;
 	}
+
 }
 
 /* Navbar Toggle  */
@@ -577,6 +578,12 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 1205px) {
 	.one-page-header .navbar-nav > li > a {
 		padding: 0 10px;
+	}
+}
+
+@media (max-width: 991px) {
+	#logo-head {
+		width:70%;
 	}
 }
 
