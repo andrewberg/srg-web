@@ -581,10 +581,16 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 
-@media (max-width: 991px) {
+/*@media (max-width: 991px) {
 	#logo-head {
 		width:70%;
 	}
+}*/
+
+#logo-head {
+	float:left;
+	margin-top: 10px;
+	margin-bottom: 2px;
 }
 
 /* Hover Effect  */
